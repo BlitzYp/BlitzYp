@@ -1,1 +1,1 @@
-[![BlitzYp's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlitzYp)](https://github.com/anuraghazra/github-readme-stats)
+[![BlitzYp's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlitzYp&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
